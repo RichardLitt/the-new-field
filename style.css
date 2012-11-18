@@ -1,0 +1,25 @@
+/* Styling time */
+
+body {
+
+}
+
+
+sky {
+  background-color: blue;
+  height: 80%;
+}
+
+ground {
+  background-color: green;
+  height: 10%;
+}
+
+home {
+  background-color:blue;
+  height: 10%;
+  font: helvetica;
+  color: white;
+  font-size: 25px;
+  font-spacing:50%;
+}
