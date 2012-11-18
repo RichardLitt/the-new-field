@@ -17,14 +17,14 @@ body {
   height: 100%;
 }
 
-sky {
+#sky {
   height: 80%;
   margin: 0 auto;
   position: relative;
   display: block;
 }
 
-ground {
+#ground {
   background-color: green;
   height: 10%; 
   margin: 0 auto;
@@ -32,7 +32,7 @@ ground {
   display: block;
 }
 
-home {
+#home {
   background-color:#00ccff;
   height: 10%;
   margin: 0 auto;
