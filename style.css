@@ -1,25 +1,41 @@
 /* Styling time */
 
-body {
+/*  Should we use lessjs? I'd like to, not sure how at the moment
+.sky_color {
+  #00ccff
+}
+*/
 
+body {
+  background-color: #00ccff;
+  width: 100%;
+  height: 100%;
 }
 
-
 sky {
-  background-color: blue;
   height: 80%;
+  margin: 0 auto;
+  position: relative;
+  display: block;
 }
 
 ground {
   background-color: green;
-  height: 10%;
+  height: 10%; 
+  margin: 0 auto;
+  position: relative;
+  display: block;
 }
 
 home {
-  background-color:blue;
+  background-color:#00ccff;
   height: 10%;
-  font: helvetica;
+  margin: 0 auto;
+  font: Helvetica;
+  font-style: oblique;
   color: white;
   font-size: 25px;
-  font-spacing:50%;
+  letter-spacing:1em;
+  position: relative;
+  display: block;
 }
