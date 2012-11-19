@@ -3,7 +3,11 @@ The New Field
 
 A collaborative story attempt. 
 
-Members:_See the commit logs_
+Members:  
+
+ * Richard Littauer
+ * Simon Vansintjan
+ * _Add your name (Keep this line)_
  
 Our commits tell stories; the links we follow trace trails in the web. We are makers, and we are movers, and we are doers. We work best when we help each other. Why shouldn't we then tell stories with each other?
 
