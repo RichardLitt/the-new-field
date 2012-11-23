@@ -37,7 +37,14 @@ that would work - such as a travelogue (islands? Mountains?)
  * Some new take on hyperlinking, perhaps? Where hovering over a link
    causes javascript to modify the remaining page or the storyline,
 instead of just static paragraphs.  
+ * How about reducing the user footprint of hyperlinking? Could we use javascript to make over change the story before the reader's eyes? How would we do that? Hover over a certain word? Maybe over a character name to see their perspective?
 
 ####Simon:  
 
  * Some story made after the global ecopaclypse.  
+
+Questions
+---------
+
+ * Should we use the wiki?
+ * Are all the rules cool?
