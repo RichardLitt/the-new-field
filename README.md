@@ -8,6 +8,7 @@ Members:
  * Richard Littauer
  * Simon Vansintjan
  * Stephen Kyle
+ * Joe Cavers
  * _Add your name (Keep this line)_
  
 Our commits tell stories; the links we follow trace trails in the web. We are makers, and we are movers, and we are doers. We work best when we help each other. Why shouldn't we then tell stories with each other?
@@ -27,6 +28,10 @@ Let's see what we do.
 
 Ideas
 --------
+
+####JoeCavers
+
+* Richard, your ideas below make me instantly see interactivity, and my mind springs to sound. Interactive sound involved in some way?
 
 ####RichardLitt:  
 
