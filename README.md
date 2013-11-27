@@ -22,7 +22,7 @@ Some groundrules:
  * No using the wiki or pages or private notes. Bring it all to the table, here. 
  * Work collaboratively, share, talk, invite, spread, disseminate, take ownership.
  * We are bound by nothing written down, but only by what we can build up. 
- * Have some fucking fun, you asshole. 
+ * Have fun!
  
 Let's see what we do. 
 
