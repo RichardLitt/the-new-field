@@ -31,9 +31,9 @@ Ideas
 
 ####JoeCavers
 
-* More ideas. If we're doing this in a browser with interactivity, what about things like in a section of story where the character is seeing by candlelight, make the reader hold a cursor (or finger if touchscreen) over the words as if that's their candlelight to read by. A touchscreen version would somewhat negate Richard's ideas below involving hover-over changes.
+* More ideas. If we're doing this in a browser with interactivity, what about things like in a section of story where the character is seeing by candlelight, make the reader hold a cursor (or finger if touchscreen) over the words as if that's their candlelight to read by. A touchscreen version would somewhat negate Richard's ideas below involving hover-over changes. _I'm down for some cool JS action with hovering. I wonder how we'd do that, though. Canvas?_
 
-* Richard, your ideas below make me instantly see interactivity, and my mind springs to sound. Interactive sound involved in some way?
+* Richard, your ideas below make me instantly see interactivity, and my mind springs to sound. Interactive sound involved in some way? _If you've got sounds to put in, please do it. Wind?_
 
 ####RichardLitt:  
 
@@ -48,7 +48,7 @@ instead of just static paragraphs.
 
 ####Simon:  
 
- * Some story made after the global ecopaclypse.  
+ * Some story made after the global ecopaclypse.  _I like it. I guess that's what fervent branch was for?_
 
 Questions
 ---------
